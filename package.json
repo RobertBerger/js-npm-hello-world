@@ -1,4 +1,16 @@
 {
     "name": "javascript-hello-world",
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "description": "Npm package to append message to \"Hello World\" text",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Shanthi-Rajendran/js-npm-hello-world.git"
+      },
+      "keywords": [
+        "javascript"
+      ],
+      "author": "Shanthi Rajendran",
+      "license": "MIT",
+      "homepage": "https://github.com/Shanthi-Rajendran/js-npm-hello-world/blob/master/README.md"
 }
