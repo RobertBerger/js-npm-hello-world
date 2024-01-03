@@ -2,11 +2,11 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Npm package to append message to "Hello World" text
+Npm package to append "This is a sample message" message to "Hello World" text
 
 #### Implementation 
 
-test.js
+index.js
 ```javascript
 const HelloWorld = require('javascript-hello-world/helloworld');
 
@@ -16,6 +16,6 @@ console.log(obj.getMessage());
 ```
 
 #### Output
-Execution : node test
+Execution : node /usr/lib/node_modules/javascript-hello-world/index.js
 ````
 Hello world!! This is a sample message
